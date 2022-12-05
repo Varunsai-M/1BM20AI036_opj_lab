@@ -21,7 +21,7 @@ speed -= 5;
 return speed;
 }
 }
-class 1b{
+class One_b{
 public static void main(String args[]){
 car c = new car(2000, "Ferrari", 150);
 System.out.println("Updated speed after acceleration:" + c.accelerate());
