@@ -19,7 +19,7 @@ double get_price(){
 return price;
 }
 }
-class 1a{
+class One_a{
 public static void main(String args[]){
 retail_item r1 = new retail_item("Kitkat", 10, 20.00);
 System.out.println("Description:"+r1.get_desc());
