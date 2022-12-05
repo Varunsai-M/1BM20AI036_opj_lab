@@ -1,4 +1,4 @@
-# 1BM20AI036_opj_lab
+# 1BM20AI036_JAVA_LAB_PROGRAMS
 
 1 a. Design and create a class named Retail Item that holds data about an item in a retail store. The class should have the following fields:
 • Description - The description field references a String object that holds a brief description of the item.
