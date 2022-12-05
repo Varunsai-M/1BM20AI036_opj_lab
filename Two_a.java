@@ -58,7 +58,7 @@ void display()
 System.out.println("Inside class D");
 }
 }
-class 2a{
+class Two_a{
 public static void main(String args[])
 {
 D d=new D();
