@@ -59,7 +59,7 @@ System.out.println("Area of Sphere= "+area);
 }
 }
 
-class Two_a{
+class Two_b{
 public static void main(String args[])
 {triangle t = new triangle(3,4);
 t.cal_area();
